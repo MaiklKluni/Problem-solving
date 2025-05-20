@@ -1,4 +1,89 @@
-#Глава 1. Основы Python
+<nav>
+  <h2>Содержание</h2>
+    <h3>Глава 1. Основы Python</h3>
+      <ul>
+        <li><a href="#">Введение в написание программ</a></li>
+        <li><a href="#">Переменные и типы данных</a></li>
+        <li><a href="#">Консольный ввод и вывод</a></li>
+        <li><a href="#">Арифметические операции с числами</a></li>
+        <li><a href="#">Поразрядные операции с числами</a></li>
+        <li><a href="#">Условные выражения</a></li>
+        <li><a href="#">Условная конструкция if</a></li>
+        <li><a href="#">Циклы</a></li>
+        <li><a href="#">Функции</a></li>
+        <li><a href="#">Параметры функции</a></li>
+        <li><a href="#">Оператор return и возвращение результата из функции</a></li>
+        <li><a href="#">Функция как тип, параметр и результат другой функции</a></li>
+        <li><a href="#">Лямбда-выражения</a></li>
+        <li><a href="#">Преобразование типов</a></li>
+        <li><a href="#">Область видимости переменных</a></li>
+        <li><a href="#">Замыкания</a></li>
+        <li><a href="#">Декораторы</a></li>
+      </ul>
+  <h3>Глава 2. Объектно-ориентированное программирование</h3>
+      <ul>
+        <li><a href="#">Классы и объекты</a></li>
+        <li><a href="#">Инкапсуляция, атрибуты и свойства</a></li>
+        <li><a href="#">Наследование</a></li>
+        <li><a href="#">Переопределение функционала базового класса</a></li>
+        <li><a href="#">Атрибуты классов и статические методы</a></li>
+        <li><a href="#">Класс object. Строковое представление объекта</a></li>
+        <li><a href="#">Перегрузка операторов</a></li>
+        <li><a href="#">Абстрактные классы и методы</a></li>
+      </ul>
+  <h3>Глава 3. Обработка ошибок и исключений</h3>
+      <ul>
+        <li><a href="#">Конструкция try...except...finally</a></li>
+        <li><a href="#">except и обработка разных типов исключений</a></li>
+        <li><a href="#">Генерация исключений и создание своих типов исключений</a></li>
+      </ul>
+  <h3>Глава 4. Обработка ошибок и исключений</h3>
+      <ul>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+      </ul>
+    <h3>Глава 4. Обработка ошибок и исключений</h3>
+      <ul>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+      </ul>
+    <h3>Глава 4. Обработка ошибок и исключений</h3>
+      <ul>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+      </ul>
+    <h3>Глава 4. Обработка ошибок и исключений</h3>
+      <ul>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+        <li><a href="#section1">Глава 1. Основы Python</a></li>
+      </ul>
+</nav>
+
+### Глава 1. Основы Python
 Введение в написание программ
 Переменные и типы данных
 Консольный ввод и вывод
