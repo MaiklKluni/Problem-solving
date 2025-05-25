@@ -3,7 +3,7 @@
     <h3>Глава 1. Основы Python</h3>
       <ol>
         <li><a href="https://github.com/MaiklKluni/Problem-solving/blob/master/Theory/Переменные.md">Переменные</a></li>
-        <li><a href="#">Типы данных</a></li>
+        <li><a href="#">Типы данных. Объекты.</a></li>
         <li><a href="#">Консольный ввод и вывод</a></li>
         <li><a href="#">Арифметические операции с числами</a></li>
         <li><a href="#">Поразрядные операции с числами</a></li>
