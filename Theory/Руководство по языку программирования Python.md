@@ -2,8 +2,8 @@
   <h2>Содержание</h2>
     <h3>Глава первая. Основы Python</h3>
       <ol>
-        <a href="https://github.com/MaiklKluni/Problem-solving/blob/master/Theory/Переменные.md"><li>Переменные</li></a>
-        <a href="https://github.com/MaiklKluni/Problem-solving/blob/master/Theory/Типы%20данных.%20Объекты.md"><li>Типы данных. Объекты.</li></a>
+        <li><a href="https://github.com/MaiklKluni/Problem-solving/blob/master/Theory/Переменные.md">Переменные</a></li>
+        <li><a href="https://github.com/MaiklKluni/Problem-solving/blob/master/Theory/Типы%20данных.%20Объекты.md">Типы данных. Объекты.</a></li>
         <li><a href="#">Консольный ввод и вывод</a></li>
         <li><a href="#">Арифметические операции с числами</a></li>
         <li><a href="#">Поразрядные операции с числами</a></li>
