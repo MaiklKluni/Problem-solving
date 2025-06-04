@@ -26,6 +26,13 @@ def Task2():
     result = list(filter(lambda elem: elem in b, a))
     print(result)
 
+def Task3():
+    # Отсортируйте словарь по значению в порядке возрастания и убывания.
+    story_count = {'сто': 100,
+                   'девяносто': 90,
+                   'двенадцать': 12,
+                   'пять': 5}
+
 
 if __name__ == "__main__":
     Task2()
